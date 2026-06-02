@@ -1,0 +1,23 @@
+{
+  "name": "aula-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llucaszr/aula-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llucaszr/aula-pipeline/issues"
+  },
+  "homepage": "https://github.com/llucaszr/aula-pipeline#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
