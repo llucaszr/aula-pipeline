@@ -44,7 +44,7 @@ jobs:
     # Passo para instalar as dependências do projeto
     - name: Install dependencies:
       # Comando para instalar as dependências do projeto usado npm
-      run: npm install ci
+      run: npm install
       # Passo para executar os testes do projeto
     - name: Run tests
       # Comando para executar os testes do projeto
