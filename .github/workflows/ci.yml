@@ -48,4 +48,4 @@ jobs:
       # Passo para executar os testes do projeto
     - name: Run tests
       # Comando para executar os testes do projeto
-      run: npm test
+      run: npx jest
